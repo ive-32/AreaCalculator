@@ -1,0 +1,15 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=00d46640_002D240d_002D478b_002Daccb_002D91e4b89eb3df/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="TriangleArea_ShouldReturn_Valid" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::DBCABF8B-B67C-46D0-9828-B8986D68AE43::net8.0::AreaCalculatorTests.RegularPolyTests.CircleAreaWithRadiusOne_Should_ReturnPi&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::DBCABF8B-B67C-46D0-9828-B8986D68AE43::net8.0::AreaCalculatorTests.RegularPolyTests.SquareArea_Should_ReturnValidArea&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::DBCABF8B-B67C-46D0-9828-B8986D68AE43::net8.0::AreaCalculatorTests.RegularPolyTests.TriangleAreaBySides_Should_BeEqualToAreaByGauss&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::DBCABF8B-B67C-46D0-9828-B8986D68AE43::net8.0::AreaCalculatorTests.RegularPolyTests.TriangleArea_ForWrongSides_ShouldThrow&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::DBCABF8B-B67C-46D0-9828-B8986D68AE43::net8.0::AreaCalculatorTests.SimplyPolyTests.SquareArea_ForRightTriangle_Should_ReturnValidArea&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::DBCABF8B-B67C-46D0-9828-B8986D68AE43::net8.0::AreaCalculatorTests.SimplyPolyTests.SquareArea_Should_ReturnValidArea&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::DBCABF8B-B67C-46D0-9828-B8986D68AE43::net8.0::AreaCalculatorTests.RegularPolyTests.GetAreaBySides_ForWrongSides_ShouldThrow&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::DBCABF8B-B67C-46D0-9828-B8986D68AE43::net8.0::AreaCalculatorTests.SimplyPolyTests.GetAreaByPoints_ForPolyLikeCircle_ShouldReturnPiRRArea&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::DBCABF8B-B67C-46D0-9828-B8986D68AE43::net8.0::AreaCalculatorTests.RegularPolyTests&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	</wpf:ResourceDictionary>

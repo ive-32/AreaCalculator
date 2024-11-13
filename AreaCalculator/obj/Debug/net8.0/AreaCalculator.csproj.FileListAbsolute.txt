@@ -1,0 +1,11 @@
+/Users/ivansavelyev/RiderProjects/AreaCalculator/AreaCalculator/obj/Debug/net8.0/AreaCalculator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ivansavelyev/RiderProjects/AreaCalculator/AreaCalculator/obj/Debug/net8.0/AreaCalculator.AssemblyInfoInputs.cache
+/Users/ivansavelyev/RiderProjects/AreaCalculator/AreaCalculator/obj/Debug/net8.0/AreaCalculator.AssemblyInfo.cs
+/Users/ivansavelyev/RiderProjects/AreaCalculator/AreaCalculator/obj/Debug/net8.0/AreaCalculator.csproj.CoreCompileInputs.cache
+/Users/ivansavelyev/RiderProjects/AreaCalculator/AreaCalculator/bin/Debug/net8.0/AreaCalculator.deps.json
+/Users/ivansavelyev/RiderProjects/AreaCalculator/AreaCalculator/bin/Debug/net8.0/AreaCalculator.dll
+/Users/ivansavelyev/RiderProjects/AreaCalculator/AreaCalculator/bin/Debug/net8.0/AreaCalculator.pdb
+/Users/ivansavelyev/RiderProjects/AreaCalculator/AreaCalculator/obj/Debug/net8.0/AreaCalculator.dll
+/Users/ivansavelyev/RiderProjects/AreaCalculator/AreaCalculator/obj/Debug/net8.0/refint/AreaCalculator.dll
+/Users/ivansavelyev/RiderProjects/AreaCalculator/AreaCalculator/obj/Debug/net8.0/AreaCalculator.pdb
+/Users/ivansavelyev/RiderProjects/AreaCalculator/AreaCalculator/obj/Debug/net8.0/ref/AreaCalculator.dll
